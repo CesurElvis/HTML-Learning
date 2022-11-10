@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1644918168276-9c02f73eb719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM5fHFQWXNEenZKT1ljfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60");
+    background-attachment: fixed;
+}
+div{
+    background-color: #3449;
+    background-attachment: fixed;
+ 
+    margin-left: 110px;
+    margin-right:110px;
+    padding-top: 50px;
+    border-radius: 100px;
+    padding-bottom: 50px;
+    
+    
+    
+}
+input.cesur{
+    background-color: rgb(100, 33, 155);
+    font-weight: bold;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+input.red{
+    background-color: grey;
+    font-weight: bold;
+    color: white;
+    border-radius: 50px;
+}
+input.blue{
+    background-color: grey;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+}
+h5{
+    color: blue;
+}
+p.tf{
+    color: cornsilk;
+}
+p{
+    color: cornsilk;
+}
+a{
+    color: red;
+}
+label{
+    color: cornsilks;
+}
